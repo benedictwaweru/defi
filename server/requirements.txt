@@ -1,0 +1,7 @@
+django
+daphne
+python-dotenv
+web3
+pywallet
+etherscan
+web3.py-ethsigner
